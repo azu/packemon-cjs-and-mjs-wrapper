@@ -6,5 +6,5 @@
 ## Reprodude
 
 1. change `type: "module"`
-2. npm run build
-3.packemon will change `type` to `"commonjs"`
+2. `npm run build`
+3. packemon will change `type` to `"commonjs"`
